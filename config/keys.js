@@ -1,3 +1,5 @@
-module.exports ={
-    mongoURI :'mongodb://localhost/travel'
-};
+module.exports = {
+    mongoURI: 'mongodb://localhost/travel',
+    secretOrKey: 'secret'
+  };
+  
