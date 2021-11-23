@@ -1,0 +1,21 @@
+.header{
+    height:50px;
+    color: transparent;
+}
+.header-list{
+    list-style-type: none;
+    
+}
+
+.header-item{
+    color: red;
+    float:left;
+    padding :10px;
+}
+.header-item:hover{
+color:orange;
+cursor:pointer;
+}
+.header-item:active{
+    font-weight: bold;
+}
