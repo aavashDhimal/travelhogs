@@ -1,0 +1,16 @@
+.slider-component{
+  width: 95%;
+  height: 210px;
+  background: blue;
+}
+.blog-text {
+ 
+  bottom: 8px;
+  right: 16px;
+}
+
+.box{
+  padding:10px;
+  margin: 10px;
+}
+
