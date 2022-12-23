@@ -1,2 +1,2 @@
 # travelhogs
-Mern app to write blogs or traveller
+Mern app to write blogs for travellers
